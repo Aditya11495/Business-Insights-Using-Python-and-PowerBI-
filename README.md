@@ -6,7 +6,6 @@ This project demonstrates an end-to-end Data Analytics workflow using Python and
 
 The project covers data understanding, data quality assessment, exploratory data analysis (EDA), KPI generation, visualization, and business recommendations.
 
----
 
 ## Business Problem
 
@@ -18,7 +17,7 @@ ABC Retail wants to understand:
 * How profitable is the business?
 * What insights can help management improve decision-making?
 
----
+
 
 ## Dataset Information
 
@@ -36,7 +35,6 @@ The dataset contains 1000 retail sales transactions with the following fields:
 * Discount
 * Profit
 
----
 
 ## Tools & Technologies
 
@@ -56,7 +54,6 @@ The dataset contains 1000 retail sales transactions with the following fields:
 * Jupyter Notebook
 * GitHub
 
----
 
 ## Project Workflow
 
@@ -120,7 +117,7 @@ Developed an interactive Power BI dashboard including:
 * Profit Margin: 12.25%
 * Average Discount: 14.53%
 
----
+
 
 ## Business Recommendations
 
